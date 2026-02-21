@@ -19,7 +19,7 @@
 
 **WPInternals Archive** is a Windows Phone–styled static website designed to preserve and host multiple historical and preview versions of WPInternals.
 
-This repository hosts a **Windows Phone–styled (Metro UI)** static website for archiving multiple versions of WPInternals.
+This repository hosts a static website for archiving multiple versions of WPInternals.
 
 The goal of this project is to preserve older and preview releases in a clean, accessible, and platform-faithful format.
 
